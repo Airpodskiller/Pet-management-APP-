@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.24722222222222223" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/bg_image_shade.xml" value="0.214" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/bg_recharge.xml" value="0.214" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/bg_shade.xml" value="0.214" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/checked_bg.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/normal_bg.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/tag_bg.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable-v24/text_color.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable/btn_bg_default.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable/liner_item_shape.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable/tab_home_selector.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable/tab_ill_selecter.xml" value="0.214" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/drawable/tab_message_selector.xml" value="0.1975" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_info.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_map.xml" value="0.18958333333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_message.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_password.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet_center.xml" value="0.25" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet_ill.xml" value="0.1515625" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet_shower.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet_shower_record.xml" value="0.1515625" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet_test.xml" value="0.1515625" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_pet_vaccine.xml" value="0.1515625" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_recharge.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_recharge_order.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_shop.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_shop_list.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_shop_order.xml" value="0.18958333333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_sign.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/activity_sterilization.xml" value="0.1515625" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/dialog_confirm.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/fragment_home.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/fragment_ill.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/fragment_message.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/fragment_pet.xml" value="0.25" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/fragment_shop.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/fragment_test.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_info_view.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_label_view.xml" value="0.18958333333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_message_view.xml" value="0.20572916666666666" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_pet_vaccine.xml" value="0.25" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_pet_view.xml" value="0.33" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_recharge_order.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_shop_order.xml" value="0.18958333333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_shop_view.xml" value="0.3692708333333333" />
+        <entry key="..\:/Job/date/2022/0410_1/pet_sys/app/app/src/main/res/layout/item_vaccine_view.xml" value="0.1515625" />
+        <entry key="app/src/main/res/drawable-v24/bg_image_shade.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/bg_recharge.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/bg_shade.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/checked_bg.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/free_dialog_bg.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/normal_bg.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/tab_home_selector.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/tab_shop_selector.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/tag_bg.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable-v24/text_color.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/btn_bg_default.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/liner_item_shape.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/tab_ill_selecter.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/tab_message_selector.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/tab_pet_selector.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/tab_test_selecter.xml" value="0.189" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/activity_info.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_password.xml" value="0.12487335359675786" />
+        <entry key="app/src/main/res/layout/activity_pet.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/layout/activity_pet_center.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_pet_ill.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_pet_shower.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_pet_shower_record.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_pet_vaccine.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/activity_shop.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_shop_order.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_sign.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/activity_sterilization.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/dialog_confirm.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/layout/fragment_pet.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/layout/fragment_shop.xml" value="0.23233695652173914" />
+        <entry key="app/src/main/res/layout/item_info_view.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/item_message_view.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/item_pet_vaccine.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/item_pet_view.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/item_recharge_order.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/item_shop_order.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/item_shop_view.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

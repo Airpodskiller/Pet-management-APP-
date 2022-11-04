@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/fragment_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/tabs_rg" />
+
+    <RadioGroup
+        android:id="@+id/tabs_rg"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#dcdcdc"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/pet_tab"
+            style="@style/Custom.TabRadioButton"
+            android:checked="true"
+            android:textSize="15dp"
+            android:drawableTop="@drawable/tab_pet_selector"
+            android:text="我的宠物" />
+
+        <RadioButton
+            android:id="@+id/shop_tab"
+            android:textSize="15dp"
+            style="@style/Custom.TabRadioButton"
+            android:drawableTop="@drawable/tab_shop_selector"
+            android:text="宠物商店" />
+        <RadioButton
+            android:id="@+id/home_tab"
+            android:textSize="15dp"
+            style="@style/Custom.TabRadioButton"
+            android:drawableTop="@drawable/tab_home_selector"
+            android:text="个人中心" />
+    </RadioGroup>
+
+</RelativeLayout>

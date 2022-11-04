@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="petType">
+        <item>猫</item>
+        <item>狗</item>
+    </string-array>
+    <string-array name="petSterilization">
+        <item>否</item>
+        <item>是</item>
+    </string-array>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:background="@drawable/bg_recharge"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_height="160dp">
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:text="钱包余额"
+            android:textColor="@color/white"
+            android:textSize="26dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <TextView
+            android:id="@+id/txtRecharge"
+            android:text="450.50"
+            android:textColor="@color/white"
+            android:textSize="28dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+    </LinearLayout>
+    <TextView
+        android:text="充值金额"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="20dp"
+        android:layout_height="60dp">
+    </TextView>
+
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:background="@drawable/bg_shade"
+        android:layout_width="match_parent"
+        android:padding="20dp"
+        android:orientation="vertical"
+        android:layout_height="140dp">
+        <TextView
+            android:text="充值金额"
+            android:textSize="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="￥"
+                android:textColor="@color/black"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:layout_marginRight="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <EditText
+                android:id="@+id/txtMoneys"
+                android:inputType="numberDecimal"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:hint="0"
+                android:textSize="22dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            </EditText>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnRecharge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/login_btn_login"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="?attr/colorPrimary"
+        android:text="确认充值"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+</LinearLayout>

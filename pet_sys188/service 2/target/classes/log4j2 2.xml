@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <!-- 变量配置 -->
+    <Properties>
+        <Property name="log_path">${sys:catalina.home}/logs/zcrTest/</Property>
+    </Properties>
+
+    <!-- appender配置 -->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%d][%t][%p][%c:%L] %m%n" />
+        </Console>
+        <RollingFile name="DailyRollingFile" fileName="${log_path}/zcrTest.log"
+                     filePattern="${log_path}/zcrTest%d{yyyy-MM-dd}.log" immediateFlush="false" append="true">
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />
+            <TimeBasedTriggeringPolicy />
+            　　　　　　　<SizeBasedTriggeringPolicy size="10 MB" />
+            <Filters>
+                <ThresholdFilter level="error" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <!--　　　　<Logger name="LogHelper" level="all">-->
+        <!--　　　　　　<AppenderRef ref="DailyRollingFile" />-->
+        <!--　　　　</Logger>-->
+        <!--配置要使用的appender -->
+        　　 <!--
+        additivity开启的话，由于这个logger也是满足root的，所以会被打印两遍。
+        不过root logger 的level是error，为什么Bar 里面的trace信息也被打印两遍呢
+        -->
+
+        <Root level="all">
+            <AppenderRef ref="Console" level="info"/>
+            <AppenderRef ref="Console" level="error"/>
+            <AppenderRef ref="Console" level="warn"/>
+            <AppenderRef ref="Console" level="trace"/>
+        </Root>
+    </Loggers>
+</Configuration>

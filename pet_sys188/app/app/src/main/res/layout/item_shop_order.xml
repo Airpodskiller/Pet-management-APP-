@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@drawable/liner_item_shape"
+    android:id="@+id/lnShop"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_height="40dp">
+            <TextView
+                android:textSize="20dp"
+                android:text="订单号："
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:id="@+id/txtOrderCode"
+                android:textSize="18dp"
+                android:text=""
+                android:layout_width="wrap_content"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content">
+
+            </TextView>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_height="40dp">
+            <TextView
+                android:textSize="20dp"
+                android:text="商品名称："
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:id="@+id/txtShopName"
+                android:textSize="18dp"
+                android:text=""
+                android:layout_width="wrap_content"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content">
+
+            </TextView>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_height="40dp">
+            <TextView
+                android:textSize="20dp"
+                android:text="支付金额："
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:id="@+id/txtMoneys"
+                android:textSize="18dp"
+                android:text=""
+                android:layout_width="wrap_content"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content">
+
+            </TextView>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_height="40dp">
+            <TextView
+                android:textSize="20dp"
+                android:text="订单状态："
+                android:layout_width="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:id="@+id/txtStatus"
+                android:textSize="18dp"
+                android:text=""
+                android:layout_width="wrap_content"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content">
+
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
